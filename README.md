@@ -65,3 +65,12 @@ Kiwi는 LGPL v3 라이센스로 배포됩니다.
 이메일: bab2min@gmail.com
 
 블로그: http://bab2min.tistory.com/560
+
+
+
+### 형태소 용어에 대한 가이드라인
+
+프로그램을 실행했을때 나오는 용어에 대해서는 morepheme_guideline.pdf를 참고해주세요.
+
+
+
