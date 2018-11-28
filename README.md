@@ -72,5 +72,9 @@ Kiwi는 LGPL v3 라이센스로 배포됩니다.
 
 프로그램을 실행했을때 나오는 용어에 대해서는 morepheme_guideline.pdf를 참고해주세요.
 
+<img width="706" alt="2018-11-27 6 48 21" src="https://user-images.githubusercontent.com/38908080/49124383-98445f00-f2ff-11e8-9d35-ed78e286e632.png">
+<img width="697" alt="2018-11-27 6 48 47" src="https://user-images.githubusercontent.com/38908080/49124410-b0b47980-f2ff-11e8-92cc-a0d6d2bff66d.png">
+<img width="698" alt="2018-11-27 6 48 54" src="https://user-images.githubusercontent.com/38908080/49124429-c1fd8600-f2ff-11e8-8f10-9e7e4c24084a.png">
+
 
 
