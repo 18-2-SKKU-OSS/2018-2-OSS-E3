@@ -1,0 +1,69 @@
+문재인 대통령의 국정수행 지지율(긍정평가)이 9주째 하락하며 취임 후 처음으로 40%대로 떨어진 것으로 29일 나타났다.
+
+(Kiwi)
+문/NNG + 재인/NNG + 대통령/NNG + 의/JKG + 국정/NNG + 수행/NNG + 지지율/NNG + (/SS + 긍정/NNG + 평가/NNG + )/SS + 이/JKS + 9/SN + 주/NNB + 째/XSN + 하락/NNG + 하/XSV + 며/EC + 취임/NNG + 후/NNG + 처음/NNG + 으로/JKB + 40/SN + %/SW + 대/XSN + 로/JKB + 떨어지/VV + ㄴ/ETM + 것/NNB + 으로/JKB + 29/SN + 일/NNB + 나타나/VV + 었/EP + 다/EF + ./SF + /UN
+
+리얼미터가 tbs 의뢰로 실시한 여론조사 결과 문 대통령의 국정수행 지지율은 지난주 대비 3.2%p 내린 48.8%(매우 잘함 24.8%, 잘하는 편 24.0%)를 기록했다.
+
+(Kiwi)
+리얼미터/NNP + 가/JKS + tbs/SL + 의뢰/NNG + 로/JKB + 실시/NNG + 하/XSV + ㄴ/ETM + 여론/NNG + 조사/NNG + 결과/NNG + 문/NNP + 대통령/NNG + 의/JKG + 국정/NNG + 수행/NNG + 지지율/NNG + 은/JX + 지난주/NNG + 대비/NNG + 3/SN + ./SF + 2/SN + %/SW + p/SL + 내리/VV + ㄴ/ETM + 48/SN + ./SF + 8/SN + %/SW + (/SS + 매우/MAG + 잘/VA + 함/NNG + 24/SN + ./SF + 8/SN + %/SW + ,/SP + 잘/MAG + 하/XSV + 는/ETM + 편/NNB + 24/SN + ./SF + 0/SN + %/SW + )/SS + 를/JX + 기록/NNG + 하/XSV + 었/EP + 다/EF + ./SF + /UN
+
+'국정수행을 잘못하고 있다'는 부정평가는 3.3%p 오른 45.8%(매우 잘못함 29.8%, 잘못하는 편 16.0%)로 집계됐다.
+
+(Kiwi)
+'/SS + 국정/NNG + 수행/NNG + 을/JKO + 잘/MAG + 못/MAG + 하/VV + 고/EC + 있/VX + 다/EC + '/SS + 는/ETM + 부정/NNG + 평가/NNG + 는/JX + 3/SN + ./SF + 3/SN + %/SW + p/SL + 오르/VV + ㄴ/ETM + 45/SN + ./SF + 8/SN + %/SW + (/SS + 매우/MAG + 잘못/MAG + 함/NNG + 29/SN + ./SF + 8/SN + %/SW + ,/SP + 잘못/MAG + 하/XSV + 는/ETM + 편/NNB + 16/SN + ./SF + 0/SN + %/SW + )/SS + 로/NNP + 집계/NNG + 되/XSV + 었/EP + 다/EF + ./SF + /UN
+
+긍정평가와 부정평가의 격차는 오차범위(±2.5%p) 내인 3.0%p로 국정에 대한 태도가 팽팽하게 엇갈리는 양상으로 급변했다고 리얼미터는 봤다. '모름·무응답'은 0.1%p 감소한 5.4%다.
+
+(Kiwi)
+긍정/NNG + 평가/NNG + 와/JC + 부정/NNG + 평가/NNG + 의/JKG + 격차/NNG + 는/JX + 오차/NNG + 범위/NNG + (/SS + ±/SW + 2/SN + ./SF + 5/SN + %/SW + p/SL + )/SS + 내이/NNG + 이/VCP + ㄴ/ETM + 3/SN + ./SF + 0/SN + %/SW + p/SL + 로/NNG + 국정/NNG + 에/JKB + 대하/VV + ㄴ/ETM + 태도/NNG + 가/JKS + 팽팽/XR + 하/XSA + 게/EC + 엇갈리/VV + 는/ETM + 양상/NNG + 으로/JKB + 급변/NNG + 하/VV + 었/EP + 다고/EC + 리얼미터/NNP + 는/JX + 보/VV + 었/EP + 다/EF + ./SF + '/SS + 모르/VV + ㅁ/EC + ·/SP + 무/XPN + 응답/NNG + '/SS + 은/JX + 0/SN + ./SF + 1/SN + %/SW + p/SL + 감소/NNG + 하/XSV + ㄴ/ETM + 5/SN + ./SF + 4/SN + %/SW + 다/EF + ./SF
+
+가장 주목할 점은 박근혜 정부에서도 더불어민주당으로 기울어져 있던 중도층에서 처음으로 부정평가가 긍정평가를 앞섰다는 것이라고 리얼미터는 분석했다.
+
+(Kiwi)
+가장/MAG + 주목/NNG + 하/XSV + ㄹ/ETM + 점/NNG + 은/JX + 박근혜/NNP + 정부/NNG + 에서/JKB + 도/JX + 더불/VV + 어/EC + 민주당/NNP + 으로/JKB + 기울어지/VV + 어/EC + 있/VX + 던/ETM + 중/NNB + 도/JX + 층/XSN + 에서/JKB + 처음/NNG + 으로/JKB + 부정/NNG + 평가/NNG + 가/JKS + 긍정/NNG + 평가/NNG + 를/JKO + 앞서/VV + 었/EP + 다는/ETM + 것/NNB + 이/VCP + 라고/EC + 리얼미터/NNP + 는/JX + 분석/NNG + 하/XSV + 었/EP + 다/EF + ./SF + /UN
+
+리얼미터에 따르면 문 대통령의 취임 후 지속적으로 우호적인 태도를 취해왔던 50대 장년층도 부정평가 우세로 돌아섰다.
+
+(Kiwi)
+리얼미터/NNG + 에/JKB + 따르/VV + 면/EC + 문/NNP + 대통령/NNG + 의/JKG + 취임/NNG + 후/NNG + 지속/NNG + 적/XSN + 으로/JKB + 우호/NNG + 적/XSN + 이/VCP + ㄴ/ETM + 태도/NNG + 를/JKO + 취하/VV + 어/EC + 오/VX + 었/EP + 던/ETM + 50/SN + 대/NNB + 장년/NNG + 층/XSN + 도/JX + 부정/NNG + 평가/NNG + 우세/NNG + 로/JKB + 돌아서/VV + 었/EP + 다/EF + ./SF + /UN
+
+평양 남북정상회담 직후인 9월 4주차와 비교하면 모든 지역·연령·이념성향·직군에서 국정수행 지지율이 큰 폭으로 내렸다.
+
+(Kiwi)
+평양/NNP + 남북/NNP + 정상/NNG + 회담/NNG + 직후/NNG + 이/VCP + ㄴ/ETM + 9/SN + 월/NNB + 4/SN + 주차/NNB + 와/JKB + 비교/NNG + 하/XSV + 면/EC + 모든/MM + 지역/NNG + ·/SP + 연령/NNG + ·/SP + 이념/NNG + 성향/NNG + ·/SP + 직군/NNG + 에서/JKB + 국정/NNG + 수행/NNG + 지지/NNG + 율/XSN + 이/JKS + 크/VA + ㄴ/ETM + 폭/NNG + 으로/JKB + 내리/VV + 었/EP + 다/EF + ./SF + /UN
+
+하락을 주도한 지역과 계층은 보수성향의 유권자가 많은 대구·경북, 부산·울산·경남, 충청권, 50대, 60대 이상, 중도층과 보수층, 자영업과 주부, 노동직 등 주로 문 대통령을 약하게 지지하던 주변 지지층이다.
+
+(Kiwi)
+하락/NNG + 을/JKO + 주도/NNG + 하/XSV + ㄴ/ETM + 지역/NNG + 과/JC + 계층/NNG + 은/JX + 보수/NNG + 성향/NNG + 의/JKG + 유권자/NNG + 가/JKS + 많/VA + 은/ETM + 대구/NNP + ·/SP + 경북/NNP + ,/SP + 부산/NNP + ·/SP + 울산/NNP + ·/SP + 경남/NNP + ,/SP + 충청/NNP + 권/XSN + ,/SP + 50/SN + 대/NNB + ,/SP + 60/SN + 대/NNB + 이상/NNG + ,/SP + 중도/NNG + 층/XSN + 과/JC + 보수/NNG + 층/XSN + ,/SP + 자영업/NNG + 과/JC + 주부/NNG + ,/SP + 노동/NNG + 직/NNG + 등/NNB + 주로/MAG + 문/NNG + 대통령/NNG + 을/JKO + 약하/VA + 게/EC + 지지/NNG + 하/XSV + 던/ETM + 주변/NNG + 지지/NNG + 층/XSN + 이/VCP + 다/EF + ./SF + /UN
+
+다만 문 대통령의 핵심 지지층인 호남과 수도권, 40대 이하, 진보층, 사무직과 학생은 하락폭이 크지만 여전히 50%대 이상을 기록했다.
+
+(Kiwi)
+다만/MAG + 문/NNG + 대통령/NNG + 의/JKG + 핵심/NNG + 지지/NNG + 층/XSN + 이/VCP + ㄴ/ETM + 호남/NNP + 과/JC + 수도/NNG + 권/XSN + ,/SP + 40/SN + 대/NNB + 이하/NNG + ,/SP + 진보/NNP + 층/XSN + ,/SP + 사무/NNG + 직/NNG + 과/JC + 학생/NNG + 은/JX + 하락/NNG + 폭/NNG + 이/JKS + 크/VA + 지만/EC + 여전히/MAG + 50/SN + %/SW + 대/NNG + 이상/NNG + 을/JKO + 기록/NNG + 하/XSV + 었/EP + 다/EF + ./SF + /UN
+
+리얼미터는 "이러한 하락의 가장 큰 원인은 경제의 어려움이다. 고용, 투자 등 각종 경제지표 악화 소식이 몇 달째 이어지면서 경제회복에 대한 기대감이 급격하게 떨어지고, 장기간 지속되고 있는 일부 야당과 언론의 경제정책 실패 공세 역시 국정에 대한 인식과 태도를 악화시킨 것"이라고 했다.
+
+(Kiwi)
+리얼미터/NNP + 는/JX + "/SS + 이러/XR + 하/XSA + ㄴ/ETM + 하락/NNG + 의/JKG + 가장/MAG + 크/VA + ㄴ/ETM + 원인/NNG + 은/JX + 경제/NNG + 의/JKG + 어려움/NNG + 이/VCP + 다/EF + ./SF + 고용/NNG + ,/SP + 투자/NNG + 등/NNB + 각종/NNG + 경제/NNG + 지표/NNG + 악화/NNG + 소식/NNG + 이/JKS + 몇/MM + 달/NNG + 째/XSN + 이어지/VV + 면서/EC + 경제/NNG + 회복/NNG + 에/JKB + 대하/VV + ㄴ/ETM + 기대감/NNG + 이/JKS + 급격/XR + 하/XSA + 게/EC + 떨어지/VV + 고/EC + ,/SP + 장기간/NNG + 지속/NNG + 되/XSV + 고/EC + 있/VX + 는/ETM + 일부/NNG + 야당/NNG + 과/JC + 언론/NNG + 의/JKG + 경제/NNG + 정책/NNG + 실패/NNG + 공세/NNG + 역시/MAG + 국정/NNG + 에/JKB + 대하/VV + ㄴ/ETM + 인식/NNG + 과/JC + 태도/NNG + 를/JKO + 악화/NNG + 시키/XSV + ㄴ/ETM + 것/NNB + "/SS + 이라고/JKQ + 하/VV + 었/EP + 다/EF + ./SF + /UN
+
+이어 "북미 비핵화 협상이 교착상태에 머물러 있는 것 또한 경제의 어려움, 남북관계 과속론과 북한 퍼주기론 등의 공세와 맞물리면서 부정적 인식을 키운 한 요인으로 보인다"고 부연했다.
+
+(Kiwi)
+이어/MAG + "/SS + 북미/NNP + 비/XPN + 핵/NNG + 화/XSN + 협상/NNG + 이/JKS + 교착/NNG + 상태/NNG + 에/JKB + 머무르/VV + 어/EC + 있/VX + 는/ETM + 것/NNB + 또한/MAG + 경제/NNG + 의/JKG + 어려움/NNG + ,/SP + 남북/NNP + 관계/NNG + 과속/NNG + 론/XSN + 과/JC + 북한/NNP + 퍼주기/NNG + 론/XSN + 등/NNB + 의/JKG + 공세/NNG + 와/JKB + 맞물리/VV + 면서/EC + 부정/NNG + 적/XSN + 인식/NNG + 을/JKO + 키우/VV + ㄴ/ETM + 한/MM + 요인/NNG + 으로/JKB + 보이/VV + ㄴ다/EC + "/SS + 고/JKQ + 부연/NNG + 하/XSV + 었/EP + 다/EF + ./SF + /UN
+
+'이재명 경기지사와 혜경궁 김씨' 논란 등 문 대통령의 지지층 이완도 지지율 하락에 상당한 영향을 미치고 있는 것으로 리얼미터는 분석했다.
+
+(Kiwi)
+'/SS + 이재/NNP + 명/NNG + 경기/NNP + 지사/NNG + 와/JC + 혜경궁/NNP + 김/NNP + 씨/NNB + '/SS + 논란/NNG + 등/NNB + 문/NNG + 대통령/NNG + 의/JKG + 지지/NNG + 층/XSN + 이완/NNG + 도/JX + 지지/NNG + 율/XSN + 하락/NNG + 에/JKB + 상당/NNG + 하/XSA + ㄴ/ETM + 영향/NNG + 을/JKO + 미치/VV + 고/EC + 있/VX + 는/ETM + 것/NNB + 으로/JKB + 리얼미터/NNP + 는/JX + 분석/NNG + 하/XSV + 었/EP + 다/EF + ./SF + /UN
+
+한편 이번 조사는 지난 26~28일 전국 19세 이상 유권자 1만9104명에게 통화를 시도해 최종 1508명이 응답을 완료해 7.9%의 응답률을 보였다. 표본오차는 95% 신뢰수준에서 ±2.5%p이다.
+
+(Kiwi)
+한편/MAG + 이번/NNG + 조사/NNG + 는/JX + 지나/VV + ㄴ/ETM + 26/SN + ~/SO + 28/SN + 일/NNB + 전국/NNG + 19/SN + 세/NNB + 이상/NNG + 유권자/NNG + 1/SN + 만/NR + 9104/SN + 명/NNB + 에게/JKB + 통화/NNG + 를/JKO + 시도/NNG + 해/NNG + 최종/NNG + 1508/SN + 명/NNB + 이/JKS + 응답/NNG + 을/JKO + 완료/NNG + 해/NNG + 7/SN + ./SF + 9/SN + %/SW + 의/JKG + 응답/NNG + 률/XSN + 을/JKO + 보이/VV + 었/EP + 다/EF + ./SF + 표본/NNG + 오차/NNG + 는/JX + 95/SN + %/SW + 신뢰/NNG + 수준/NNG + 에서/JKB + ±/SW + 2/SN + ./SF + 5/SN + %/SW + p/SL + 이/VCP + 다/EF + ./SF + /UN
+
+자세한 조사개요와 결과는 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.
+
+(Kiwi)
+자세/XR + 하/XSA + ㄴ/ETM + 조사/NNG + 개요/NNG + 와/JC + 결과/NNG + 는/JX + 중앙선거여론조사심의/NNP + 위원회/NNG + 홈페이지/NNG + 를/JKO + 참조/NNG + 하/XSV + 면/EC + 되/VV + ㄴ다/EF + ./SF + /UN
