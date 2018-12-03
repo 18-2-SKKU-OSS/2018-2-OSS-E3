@@ -1,0 +1,2 @@
+﻿  Validating architecture
+D:\Visual Studio 2017\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(61,5): error : Current project architecture 'ARM' is incompatible with the remote system architecture 'x64' ('x64'). Please switch the project architecture to 'x64' in Configuration Manager.
