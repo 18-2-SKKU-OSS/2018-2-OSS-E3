@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <LocalLibPath>D:\OpenSourceProject\KiwiRun\bin\ARM\Debug\KiwiRunLinux.out</LocalLibPath>
+  <ObjPaths>D:\OpenSourceProject\KiwiRun\obj\ARM\Debug\</ObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>ARM</Platform>
+</Project>
