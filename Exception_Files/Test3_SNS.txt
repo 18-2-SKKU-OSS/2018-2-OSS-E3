@@ -1,0 +1,95 @@
+1.
+아시아의 작은 사막 무이네 여행
+
+아시아/NNP + 의/JKG + 작/VA + 은/ETM + 사막/NNG + 무/NNG + 이/VCP + 네/EC + 여행/NNG
+
+2. 
+1인경비 70 만원 5박 6일 
+먹고싶은 거 다 먹고 편하게 다녀왔어요
+
+(Kiwi)
+1/SN + 인/NNG + 경비/NNG + 70/SN + 만/NR + 원/NNB + 5/SN + 박/NNB + 6/SN + 일/NNB + 먹/VV + 고/EC + 싶/VX + 은/ETM + 거/NNB + 다/MAG + 먹/VV + 고/EC + 편하/VA + 게/EC + 다녀오/VV + 었/EP + 어요/EC
+
+3.
+베트남 물가는 진짜 웃음이 천국
+해산물 꼭 잔뜩 드세요
+
+(Kiwi)
+베트남/NNP + 물가/NNG + 는/JX + 진짜/MAG + 웃음/NNG + 이/MM + 천국/NNG + 해산물/NNG + 꼭/MAG + 잔뜩/MAG + 드세/VA + 요/NNP
+
+4.
+항공권 아시아나 항공 323,150 원
+환전 1인 200,000원
+
+(Kiwi)
+항공권/NNG + 아시아나/NNP + 항공/NNG + 323/SN + ,/SP + 150/SN + 원/NNG + 환전/NNG + 💵/SH + 1/SN + 인/NNG + 200/SN + ,/SP + 000/SN + 원/NNB
+
+5.
+숙소
+1박 밤도착 호치민 풍짱버스 근처
+사이공 유럽 호텔 &스파 20,000원 
+3박 빌라아리아 무이네 310,000원
+5박 리버티사이공 그린뷰 호치민 50,000원
+
+(Kiwi)
+숙소/NNG + 1/SN + 박/NNG + 밤/NNG + 도착/NNG + 호치민/NNP + 풍짱/NNP + 버스/NNG + 근처/NNG + 사이공/NNP + 유럽/NNP + 호텔/NNG + &/SW + 스/VV + 파/NNG + 20/SN + ,/SP + 000/SN + 원/NNB + 3/SN + 박/NNG + 빌라/NNG + 아리아/NNG + 무/NNG + 이/VCP + 네/EC + 310/SN + ,/SP + 000/SN + 원/NNB + 5/SN + 박/NNG + 리버티사이/NNP + 공/NNB + 그린뷰/NNP + 호치민/NNP + 50/SN + ,/SP + 000/SN + 원/NNB
+
+6.
+호치민 - 무이네 풍짱버스(슬리핑버스)
+5시간 소요 1인 6000원 
+시내 이동 - 택시 (어플 그랩 이용하시면 간편해요 꼭 미터온! 말하시고 계산 잘하셔야 해요)
+
+(Kiwi)
+호치민/NNP + -/SO + 무/NNG + 이/VCP + 네/EC + 풍/XSN + 짱/NNG + 버스/NNG + (/SS + 슬리핑/NNP + 버스/NNG + )/SS + 5/SN + 시간/NNB + 소요/NNG + 1/SN + 인/NNG + 6000/SN + 원/NNG + 시내/NNG + 이동/NNG + -/SO + 택시/NNG + (/SS + 어프/NNP + ᆯ/ETM + 그/MM + 랩/NNG + 이용/NNG + 하/XSV + 시/EP + 면/EC + 간/NNG + 편하/VA + 어요/EF + 꼭/MAG + 미터/NNB + 오/VV + ᆫ/ETM + !/SF + 말하/VV + 시/NNB + 고/MM + 계산/NNG + 잘/MAG + 하/VV + 시/EP + 어야/EC + 하/VX + 어요/EF + )/SS + /UN
+
+7.
+조식은 모든 호텔에서 제공이 되었어요
+든든하게 아침먹고 나오세요!
+
+(Kiwi)
+조식/NNP + 은/JX + 모든/MM + 호텔/NNG + 에서/JKB + 제공/NNG + 이/JKC + 되/VV + 었/EP + 어요/EC + 든든/XR + 하/XSA + 게/EC + 아침/NNG + 먹/VV + 고/EC + 나오/VV + 시/EP + 어요/EF + !/SF + /UN
+
+8.
+무이네에는 사막이 두곳이 있어요
+화이트샌듄, 레드샌듄 
+대부분 지프투어를 많이 하시는데
+저희는 여러명이 이동하면 불편할것 같아
+프라이빗으로 진행했어요 50만 VND
+
+(Kiwi)
+ 무이네에/NNP + 는/JX + 사막/NNG + 이/JKS + 두/MM + 곳/NNG + 이/JKS + 있/VX + 어요/EC + 화이트샌듄/NNG + ,/SP + 레드샌듄/NNG + 대부분/MAG + 지프/NNG + 투어/NNG + 를/JKO + 많이/MAG + 하/VV + 시/EP + 는데/EC + 저희/NP + 는/JX + 여러/MM + 명/NNB + 이/JKS + 이동/NNG + 하/XSV + 면/EC + 불편/NNG + 하/XSA + ᆯ/ETM + 것/NNB + 같/VA + 어/EC + 프라이/NNP + 빗/NNG + 으로/JKB + 진행/NNG + 하/VV + 었/EP + 어요/EF + 50/SN + 만/NR + VND/SL
+
+9.
+다음날은 택시 6시간 대절로 한번더 가구요!
+50만 VND
+
+(Kiwi)
+다음/NNG + 날/NNG + 은/JX + 택시/NNG + 6/SN + 시간/NNG + 대/NNB + 절로/MAG + 한/MM + 번/NNB + 더/MAG + 가/VV + 구요/EF + !/SF + 50/SN + 만/NR + VND/SL
+
+10.
+자세한 내용은 블로그에도 포스팅중이에요!
+궁금하시면 놀러오세요
+
+(Kiwi)
+자세/XR + 하/XSA + ᆫ/ETM + 내용/NNG + 은/JX + 블로그/NNG + 에/JKB + 도/JX + 포스팅중/NNG + 이/VCP + 에요/EF + !/SF + 궁금/XR + 하/XSA + 시/EP + 면/EC + 놀/VV + 러/EC + 오/VV + 시/EP + 어요/EC
+
+11.
+무이네 착장정보
+무이네 포스팅 보러가기
+선글라스정보
+
+(Kiwi)
+무/XPN + 이/XSN + 네/XSN + 착/NNG + 장/NNG + 정보/NNG + 무/NNG + 이/VCP + 네/EC + 포/NNG + 스/VV + 팅/NNG + 보러가/NNG + 기/VV + 선글라스/NNG + 정보/NNG
+
+-문제점
+1, 6, 8, 11
+지역명인 “무이네”를 고유명사로 인식하지 못한다. 새로 발견한 점은 11번을 보면 같은 무이네를 무/XPN + 이/XSN + 네/XSN 와 무/NNG + 이/VCP + 네/EC의 두가지 방법으로 잘못 분석했다는 점이다.
+
+4, 5
+숫자의 단위가 1000이상으로 커지면 흔히들 쉼표(,)를 써서 보기 쉽게 표기하는데 Kiwi는 이를 쉼표 앞의 숫자와 쉼표 뒤의 숫자로 나눈다. 하지만 문맥상 하나의 숫자로 인식되어야 한다.
+
+5, 6, 10, 11
+외래어에 대한 잘못된 분석이다.
+
+9
+‘대절’이라는 명사를 의존명사 ‘대’와 ‘절로’라는 부사로 인식했다.
