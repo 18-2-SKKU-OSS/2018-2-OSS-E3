@@ -50,4 +50,7 @@ function generateByDefault(isMale = true) {
  */
 function train(nameList, compress = false) {
     let trainedNameData = [[[], [], [], []], [[], [], [], []]];
+    let increase = (array, index) => {
+        array[index] = (array[index] == undefined ? 1 : array[index] + 1);
+    };
 }
