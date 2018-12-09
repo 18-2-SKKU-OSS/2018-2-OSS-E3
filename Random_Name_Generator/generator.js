@@ -17,5 +17,6 @@ function generate(trainedDataMatrix) {
         for (let i = 0; i < count; i++) {
                 sum += item(i);
         }
+        let pivot = Math.random() * sum;
     }
 }
