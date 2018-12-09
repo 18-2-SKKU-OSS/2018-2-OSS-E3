@@ -49,4 +49,5 @@ function generateByDefault(isMale = true) {
  * @param {array} nameList 
  */
 function train(nameList, compress = false) {
+    let trainedNameData = [[[], [], [], []], [[], [], [], []]];
 }
