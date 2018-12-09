@@ -4,17 +4,17 @@ about: To contribute for improving the correctness of KiWi Project
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### KiWi 프로젝트 버그 리포트
+- 해당 리포트는 KiWi 프로젝트의 정확도 향상에 기여하고자 다양한 텍스트들을 테스트한 결과물들을 분석한 리포트이다.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### 버그 리포트 개요
 
-**Expected behavior**
+1. 신문기사 속 글들을 테스트한 결과에 대한 분석 및 문제점
+2. 문학작품(운문)의 글들을 테스트한 결과에 대한 분석 및 문제점
+3. SNS(Facebook 등)의 글들을 테스트한 결과에 대한 분석 및 문제점
+4. 주요 문제점 향후 개선 방향
+
+#### 1. 신문기사 테스트
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
