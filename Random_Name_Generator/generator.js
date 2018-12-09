@@ -157,3 +157,4 @@ function resolveToJamoIndex(syllable) {
     }
      return [choseong, jungseong, jongseong];
 }
+module.exports = {generate: generateByDefault, generateCustom: generate, train: train};
