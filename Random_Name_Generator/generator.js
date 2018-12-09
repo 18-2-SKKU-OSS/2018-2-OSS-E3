@@ -82,4 +82,22 @@ function train(nameList, compress = false) {
 function compressEmptyPart(array) {
     let compressedArray = [];
     let emptyCount = 0;
+    for (let i = 0; i < array.length; i++) {
+
+        if (array[i] == null) {
+            emptyCount++;
+        } 
+        
+        else if (array[i] instanceof Array) {
+            compressedArray.push(compressEmptyPart(array[i]));
+        } 
+        
+        else {
+            if (emptyCount > 0) {
+                compressedArray.push(-emptyCount);
+                emptyCount = 0;
+            }
+            compressedArray.push(array[i]);
+        }
+    }
 }
