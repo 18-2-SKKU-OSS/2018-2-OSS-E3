@@ -129,4 +129,5 @@ function uncompressEmptyPart(array) {
             }
         }
     }
+    return originalArray;
 }
