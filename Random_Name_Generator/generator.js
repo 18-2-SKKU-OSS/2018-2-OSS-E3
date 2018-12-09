@@ -34,5 +34,8 @@ function generate(trainedDataMatrix) {
         return constructFromJamoIndex([choseong, jungseong, jongseong]);
     }
     let pickLastName = () => {
+        let lastNameIndex = pick(trainedData.lastNames.length, (n) => trainedData.lastNameFrequency[n]);
+
+        return String.fromCharCode(trainedData.lastNames[lastNameIndex] + 0xAC00);
     }
 }
