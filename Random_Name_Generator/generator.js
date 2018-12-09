@@ -152,4 +152,7 @@ function resolveToJamoIndex(syllable) {
     let jongseong = code % 28;
 
     let isValid = (n) => !Number.isNaN(n) && n >= 0;
+    if (!(isValid(choseong) && isValid(jungseong) && isValid(jongseong))) {
+        return null;
+    }
 }
