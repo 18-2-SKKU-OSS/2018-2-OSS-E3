@@ -26,4 +26,6 @@ function generate(trainedDataMatrix) {
         }
         return selected;
     }
+    let pickSyllable = (set) => {
+    }
 }
