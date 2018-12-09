@@ -144,3 +144,5 @@ function constructFromJamoIndex(jamoIndex) {
  * 
  * @param {string} syllable 
  */
+function resolveToJamoIndex(syllable) {
+}
