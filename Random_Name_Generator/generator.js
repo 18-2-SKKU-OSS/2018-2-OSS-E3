@@ -102,3 +102,8 @@ function compressEmptyPart(array) {
     }
     return compressedArray;
 }
+/**
+ * 압축된 배열을 원래 상태로 되돌린다.
+ * 
+ * @param {array} array 
+ */
