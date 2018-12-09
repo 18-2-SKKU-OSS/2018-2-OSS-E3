@@ -107,3 +107,5 @@ function compressEmptyPart(array) {
  * 
  * @param {array} array 
  */
+function uncompressEmptyPart(array) {
+}
