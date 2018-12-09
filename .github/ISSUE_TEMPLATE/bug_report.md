@@ -1,6 +1,6 @@
 ---
-hello: Bug report
-about: Create a report to help us improve
+이름: Bug report of KiWi Project
+목적: To contribute for improving the correctness of KiWi Project
 
 ---
 
