@@ -1,6 +1,6 @@
 ---
-이름: Bug report of KiWi Project
-목적: To contribute for improving the correctness of KiWi Project
+name: Bug report of KiWi Project
+about: To contribute for improving the correctness of KiWi Project
 
 ---
 
