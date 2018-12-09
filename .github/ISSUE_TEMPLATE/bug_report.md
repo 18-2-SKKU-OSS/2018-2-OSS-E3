@@ -1,6 +1,8 @@
 ---
 name: Bug report of KiWi Project
 about: To contribute for improving the correctness of KiWi Project
+테스트 진행자: 강보영
+결과 분석자: 오세훈
 
 ---
 
