@@ -139,3 +139,8 @@ function uncompressEmptyPart(array) {
 function constructFromJamoIndex(jamoIndex) {
     return String.fromCharCode(0xAC00 + 28 * 21 * jamoIndex[0] + 28 * jamoIndex[1] + jamoIndex[2]);
 }
+/**
+ * 음절로부터 자보 배열을 생성한다.
+ * 
+ * @param {string} syllable 
+ */
