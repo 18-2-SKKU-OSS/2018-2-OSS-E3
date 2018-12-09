@@ -145,4 +145,11 @@ function constructFromJamoIndex(jamoIndex) {
  * @param {string} syllable 
  */
 function resolveToJamoIndex(syllable) {
+    let code = syllable.charCodeAt(0) - 0xAC00;
+    
+    let choseong = Math.floor(((code - code % 28) / 28) / 21);
+    let jungseong = Math.floor(((code - code % 28) / 28) % 21);
+    let jongseong = code % 28;
+
+    let isValid = (n) => !Number.isNaN(n) && n >= 0;
 }
