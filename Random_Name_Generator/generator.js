@@ -136,3 +136,6 @@ function uncompressEmptyPart(array) {
  * 
  * @param {array} jamoIndex 
  */
+function constructFromJamoIndex(jamoIndex) {
+    return String.fromCharCode(0xAC00 + 28 * 21 * jamoIndex[0] + 28 * jamoIndex[1] + jamoIndex[2]);
+}
