@@ -155,4 +155,5 @@ function resolveToJamoIndex(syllable) {
     if (!(isValid(choseong) && isValid(jungseong) && isValid(jongseong))) {
         return null;
     }
+     return [choseong, jungseong, jongseong];
 }
