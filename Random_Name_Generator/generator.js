@@ -109,4 +109,24 @@ function compressEmptyPart(array) {
  */
 function uncompressEmptyPart(array) {
     let originalArray = [];
+    for (let i = 0; i < array.length; i++) {
+
+        if (array[i] instanceof Array) {
+            originalArray.push(uncompressEmptyPart(array[i]));
+        }
+        
+        else {
+
+            if (array[i] >= 0) {
+                originalArray.push(array[i]);
+            }
+            
+            else {
+                
+                for (let j = 0; j < -array[i]; j++) {
+                    originalArray.push(0);
+                }
+            }
+        }
+    }
 }
