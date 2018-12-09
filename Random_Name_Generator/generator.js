@@ -131,3 +131,8 @@ function uncompressEmptyPart(array) {
     }
     return originalArray;
 }
+/**
+ * 자모 배열로부터 음절을 생성한다.
+ * 
+ * @param {array} jamoIndex 
+ */
