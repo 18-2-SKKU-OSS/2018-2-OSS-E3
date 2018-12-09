@@ -100,4 +100,5 @@ function compressEmptyPart(array) {
             compressedArray.push(array[i]);
         }
     }
+    return compressedArray;
 }
