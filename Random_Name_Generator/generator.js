@@ -74,3 +74,8 @@ function train(nameList, compress = false) {
     }
     return compress ? compressEmptyPart(trainedNameData) : trainedNameData;
 }
+/**
+ * 빈 공간이 많은 배열을 압축한다.
+ * 
+ * @param {array} array 
+ */
