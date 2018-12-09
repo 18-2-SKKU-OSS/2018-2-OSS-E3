@@ -33,4 +33,6 @@ function generate(trainedDataMatrix) {
 
         return constructFromJamoIndex([choseong, jungseong, jongseong]);
     }
+    let pickLastName = () => {
+    }
 }
