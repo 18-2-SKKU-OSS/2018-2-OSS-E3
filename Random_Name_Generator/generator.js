@@ -72,4 +72,5 @@ function train(nameList, compress = false) {
         if (cheotJamo != null) process(0, cheotJamo);
         if (duJamo != null) process(1, duJamo);
     }
+    return compress ? compressEmptyPart(trainedNameData) : trainedNameData;
 }
