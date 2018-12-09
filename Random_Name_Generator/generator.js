@@ -24,5 +24,6 @@ function generate(trainedDataMatrix) {
                 break;
             }
         }
+        return selected;
     }
 }
