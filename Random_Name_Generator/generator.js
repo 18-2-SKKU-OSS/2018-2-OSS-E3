@@ -11,4 +11,7 @@ function generate(trainedDataMatrix) {
     let ensure = (n) => n == undefined ? 0 : n; 
 
         // 요소들의 가중치에 비례한 확률로 랜덤 뽑기
+    let pick = (count, item) => {
+    
+    }
 }
