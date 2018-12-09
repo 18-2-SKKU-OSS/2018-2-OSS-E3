@@ -38,5 +38,9 @@ function generate(trainedDataMatrix) {
 
         return String.fromCharCode(trainedData.lastNames[lastNameIndex] + 0xAC00);
     }
-     return pickLastName() + pickSyllable(0) + pickSyllable(1);
+    return pickLastName() + pickSyllable(0) + pickSyllable(1);
 }
+function generateByDefault(isMale = true) {
+    return generate(trainedData.firstNames[isMale ? 0 : 1]);
+}
+
