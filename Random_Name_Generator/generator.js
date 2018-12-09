@@ -18,5 +18,11 @@ function generate(trainedDataMatrix) {
                 sum += item(i);
         }
         let pivot = Math.random() * sum;
+        for (let i = 0; i < count; i++) {
+            if ((pivot -= item(i)) <= 0) {
+                selected = i;
+                break;
+            }
+        }
     }
 }
