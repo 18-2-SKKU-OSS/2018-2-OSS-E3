@@ -27,5 +27,10 @@ function generate(trainedDataMatrix) {
         return selected;
     }
     let pickSyllable = (set) => {
+        let choseong = pick(19, (n) => ensure(trainedDataMatrix[set][0][n]));
+        let jungseong = pick(21, (n) => ensure(trainedDataMatrix[set][1][choseong * 21 + n]));
+        let jongseong = pick(28, (n) => ensure(trainedDataMatrix[set][2][jungseong * 28 + n]) * ensure(trainedDataMatrix[set][3][choseong * 28 + n]));
+
+        return constructFromJamoIndex([choseong, jungseong, jongseong]);
     }
 }
