@@ -43,4 +43,8 @@ function generate(trainedDataMatrix) {
 function generateByDefault(isMale = true) {
     return generate(trainedData.firstNames[isMale ? 0 : 1]);
 }
-
+/**
+ * 이름 리스트를 토대로 통계적 학습 데이터를 생성한다.
+ * 
+ * @param {array} nameList 
+ */
