@@ -80,4 +80,6 @@ function train(nameList, compress = false) {
  * @param {array} array 
  */
 function compressEmptyPart(array) {
+    let compressedArray = [];
+    let emptyCount = 0;
 }
