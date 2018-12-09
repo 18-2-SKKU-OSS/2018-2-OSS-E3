@@ -59,4 +59,17 @@ function train(nameList, compress = false) {
         increase(trainedNameData[set][2], jamo[1] * 28 + jamo[2]);
         increase(trainedNameData[set][3], jamo[0] * 28 + jamo[2]);
     };
+     for (let i = 0; i < nameList.length; i++) {
+
+        let firstName = nameList[i].substring(1);
+
+        let cheot = firstName.charAt(0);
+        let du = firstName.length > 0 ? firstName.charAt(1) : "";
+
+        let cheotJamo = resolveToJamoIndex(cheot);
+        let duJamo = resolveToJamoIndex(du);
+
+        if (cheotJamo != null) process(0, cheotJamo);
+        if (duJamo != null) process(1, duJamo);
+    }
 }
