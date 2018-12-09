@@ -53,4 +53,10 @@ function train(nameList, compress = false) {
     let increase = (array, index) => {
         array[index] = (array[index] == undefined ? 1 : array[index] + 1);
     };
+    let process = (set, jamo) => {
+        increase(trainedNameData[set][0], jamo[0]);
+        increase(trainedNameData[set][1], jamo[0] * 21 + jamo[1]);
+        increase(trainedNameData[set][2], jamo[1] * 28 + jamo[2]);
+        increase(trainedNameData[set][3], jamo[0] * 28 + jamo[2]);
+    };
 }
