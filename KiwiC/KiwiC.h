@@ -19,6 +19,7 @@ typedef int(*kiwi_receiver)(int, PKIWIRESULT, void*);
 extern "C" {
 #endif 
 
+// DECL_DLL : Declaration_DynamicLibrary
 DECL_DLL int kiwi_version();
 DECL_DLL const char* kiwi_error();
 
