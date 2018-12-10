@@ -1,4 +1,4 @@
-1 : 한글처리 알고리즘
+#1 : 한글처리 알고리즘
 
 -> 한국어 처리를 위해서 가장 처음에 해야할 일은 음절 글자를 음소단위로 쪼개는 일일 것입니다. Trie를 쓰기 위해서 자소 단위로 쪼개기로 함.
 
@@ -11,7 +11,7 @@
 https://github.com/18-2-SKKU-OSS/2018-2-OSS-E3/blob/b3706d885467faa964fa7b591bc95ca381240b25/ModelGenerator/utils.py
 61번줄
 
-2 : 한국어 형태소 매칭을 위한 Trie 구조로 데이터를 담을 구조체 KTrie 정의하기
+#2 : 한국어 형태소 매칭을 위한 Trie 구조로 데이터를 담을 구조체 KTrie 정의하기
 
 struct KTrie
 {
@@ -32,7 +32,7 @@ struct KTrie
     vector<pair<int, int>> searchAllPatterns(const vector<char>& str) const;
 };
 
-3 : 입력되는 한글데이터로 Trie 구축하기
+#3 : 입력되는 한글데이터로 Trie 구축하기
 
 #ifdef _DEBUG
 int KTrie::rootID = 0;
@@ -142,7 +142,7 @@ vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const /
 참조 https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220992598966&proxyReferer=https%3A%2F%2Fwww.google.com%2F
 참조
 
-4 : 형태소 간의 결합과 불규칙 활용은 분석은 어떻게 ?
+#4 : 형태소 간의 결합과 불규칙 활용은 분석은 어떻게 ?
 
 위의 아호-코라식 알고리즘을 이용한다고 해도 어간과 어미의 결합시 일어나는 불규칙 활용을 분석해내는 것은 불가능함. 따라서 대부분의 한국어의 결합의 형태인
 
@@ -181,7 +181,7 @@ vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const /
 
 로 분석되는게 맞음. 따라서 이를 해결하기 위해 확률 모델을 도입함.
 
-5 : 확률 모델
+#5 : 확률 모델
 
 우리가 원하는 정답을 구하기 위하여 우리는 확률 이론을 사용함.
 
@@ -223,7 +223,7 @@ vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const /
 
 하지만 대부분의 케이스들의 경우 검사할 필요조차 없는, 결국엔 탈락할 후보들임이 자명하기 때문에, 사전에 제거를 해놓을 필요성이 제기됨.
 
-6 : 결합 조건 검증
+#6 : 결합 조건 검증
 
 한국어의 조사는 바로 앞 단어의 받침 유무에 따라서 결합여부가 달라짐. '은,이,을' 은 앞에 받침이 있는 경우, '는, 가, 를'은 받침이 없는 경우만 결합 가능함.
 
@@ -243,7 +243,7 @@ vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const /
 
 따라서 알고리즘을 수정할 필요성이 대두됨.
 
-7 : 알고리즘을 수정하기
+#7 : 알고리즘을 수정하기
 
 수정 1; 
  분할정복(Divide and Conquer) :
