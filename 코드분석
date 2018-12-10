@@ -12,3 +12,22 @@ https://github.com/18-2-SKKU-OSS/2018-2-OSS-E3/blob/b3706d885467faa964fa7b591bc9
 61번줄
 
 2 : 한국어 형태소 매칭을 위한 Trie 구조로 데이터를 담을 구조체 KTrie
+
+struct KTrie
+{
+#ifdef  _DEBUG
+    static int rootID;
+    int id;
+#endif //  _DEBUG
+ 
+    KTrie* next[51] = {nullptr,};
+    KTrie* fail = nullptr;
+    KTrie* exit = nullptr;
+    int depth;
+    KTrie(int depth = 0);
+    ~KTrie();
+    void build(const char* str);
+    KTrie* findFail(char i) const;
+    void fillFail();
+    vector<pair<int, int>> searchAllPatterns(const vector<char>& str) const;
+};
