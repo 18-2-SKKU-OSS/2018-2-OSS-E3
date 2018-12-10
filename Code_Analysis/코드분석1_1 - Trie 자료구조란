@@ -28,10 +28,27 @@ Trie(트라이)는 자료구조의 한 종류로써 빠른 단어 검색에 용�
 
 이를 해결하는 것이 '트라이' 이다. 트라이 또한 트리의 일종이라고 볼 수 있는데,
 
+저장하는 방식은 만약 romane romanus romalus rubens ruber 을 저장한다고 하면,(trie자료구조예시.jpg 참고)
 
+모든 단어가 r을 가지고 있고 다음 철자들 중에서 갈래가 나뉘어진다.
 
+r'oma'ne r'oma'nus r'oma'lus r'ube'ns r'ube'r
 
+이렇게 r다음에 oma 또는 ube 두가지의 갈래길이 나오고 그러면 트리구조로 child를 두개 생성해서 저장한다.
 
+그리고 나서 ome 다음으로 따라오는 철자를 똑같은 방식으로 트리 형식으로 저장한다. 
 
+roma/'n'e 
 
-미완성임 수정하겠음
+roma/'n'us 
+
+roma/lus
+
+이므르, 트리구조에 oma의 child로 n 과 lus를 생성한다.
+
+이제 romalus 라는 단어는 저장이 완료 되었다.
+
+n의 child를 저장하기 위해서, romane romanus 를 살펴보면, n다음으로 공통되는 철자가 없으므로, n의 child로 'e' 와 'us'를 n의 child로 저장한다. 
+
+이런식으로 모든 단어를 저장하면 업데이트 된 그림처럼 저장이 되는 것을 알수 있다.
+
