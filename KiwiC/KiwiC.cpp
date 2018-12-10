@@ -9,23 +9,24 @@
 
 using namespace std;
 
+// 키위프로그램_버전
 int kiwi_version()
 {
 	return Kiwi::getVersion();
 }
-
+// 결과 버퍼
 struct ResultBuffer
 {
 	vector<string> stringBuf;
 };
 
 static exception currentError;
-
+// 키위프로그램 에러 핸들링 - BackTracing
 const char* kiwi_error()
 {
 	return currentError.what();
 }
-
+// Initialize KIWI
 PKIWI kiwi_init(const char * modelPath, int numThread)
 {
 	try
