@@ -39,7 +39,7 @@ PKIWI kiwi_init(const char * modelPath, int numThread)
 		return nullptr;
 	}
 }
-
+// User 입력 string을 재귀함수로 split하여 추가함
 int kiwi_addUserWord(PKIWI handle, const char * word, const char * pos)
 {
 	if (!handle) return KIWIERR_INVALID_HANDLE;
