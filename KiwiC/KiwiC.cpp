@@ -40,7 +40,7 @@ PKIWI kiwi_init(const char * modelPath, int numThread)
 	}
 }
 // Kiwi struct에 대한 본문 선언문 즉, Kiwi struct를 담은 dll파일 분석 필요
-// KiwiGui/Kiwics.cs 에서의 DLL PATH로 
+// KiwiGui/Kiwics.cs 에서의 DLL PATH로 동적 라이브러리 
 int kiwi_addUserWord(PKIWI handle, const char * word, const char * pos)
 {
 	if (!handle) return KIWIERR_INVALID_HANDLE;
