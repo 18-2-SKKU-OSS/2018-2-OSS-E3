@@ -130,3 +130,6 @@ firstNames[1] = [
         ]
     ]
 ];
+exports.lastNames = lastNames;
+exports.lastNameFrequency = lastNameFrequency;
+exports.firstNames = firstNames;
