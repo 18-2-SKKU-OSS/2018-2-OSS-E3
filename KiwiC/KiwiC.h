@@ -20,6 +20,7 @@ extern "C" {
 #endif 
 
 // DECL_DLL : Declaration_DynamicLibrary
+// 선언 본문은 Kiwi_GUI/KiwiCs.cs 파일에서 DLL들을 import 해오는 것을 알 수 있다
 DECL_DLL int kiwi_version();
 DECL_DLL const char* kiwi_error();
 
