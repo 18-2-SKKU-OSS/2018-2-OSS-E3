@@ -138,5 +138,18 @@ vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const /
     return found;
 }
 
+[아호-코라식 알고리즘] 참조 https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=220992598966&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+참조
+
+4 : 형태소 간의 결합과 불규칙 활용은 분석은 어떻게 ?
+
+위의 아호-코라식 알고리즘을 이용한다고 해도 어간과 어미의 결합시 일어나는 불규칙 활용을 분석해내는 것은 불가능함. 따라서 대부분의 한국어의 결합의 형태인
+
+규칙 활용을 이용함. (예시, 오다 + 왔다 =>> 오 + 았 + 다 so, ㅗ + ㅏ = ㅘ)
+
+따라서 모든 결합 규칙들을 작성하고 사전에 만들어 놓은 다음에 메모리에 다 저장해두었다가 패턴 검색시에 이용함. 
+(형태소 결합규칙사전 참조)
+
+
 
 출처: https://bab2min.tistory.com/561?category=686456 [나의 큰 O는 logx야..]
