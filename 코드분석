@@ -55,7 +55,7 @@ KTrie::~KTrie()
     }
 }
  
-void KTrie::build(const char * str)
+void KTrie::build(const char * str) // trie 자료구조에 한글 저장히기
 {
     assert(str);
     assert(str[0] < 52);
@@ -69,7 +69,7 @@ void KTrie::build(const char * str)
     next[idx]->build(str + 1);
 }
  
-KTrie * KTrie::findFail(char i) const
+KTrie * KTrie::findFail(char i) const // 글자의 끝을 찾기 위한 
 {
     assert(i < 51);
     if (!fail) // if this is Root
@@ -112,7 +112,7 @@ void KTrie::fillFail()
     }
 }
  
-vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const
+vector<pair<int, int>> KTrie::searchAllPatterns(const vector<char>& str) const // 저장한 단어의 패턴을 검색하는 함수
 {
     vector<pair<int, int>> found;
     auto curTrie = this;
